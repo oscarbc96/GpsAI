@@ -1,0 +1,16 @@
+10,10
+2,2,9,4
+3
+b,3,2
+t,1,3
+w,10,0
+bwwtwwbttt
+bwwtwwbttt
+bwwtwwbttt
+bwwwwwwwww
+bbbbbbbbbb
+bwwtwwbttt
+bwwtwwbttt
+bwwtwwbttt
+bwwtwwbttt
+bwwtwwbttt
